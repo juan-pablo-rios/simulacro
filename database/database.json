@@ -1,0 +1,95 @@
+{
+  "news": [
+    {
+      "title": "Tesla presenta nuevo auto eléctrico autónomo",
+      "description": "Tesla revela un modelo de automóvil eléctrico con conducción autónoma avanzada. ",
+      "date": "08/02/2024",
+      "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/11/29/61a511db177c6.png",
+      "userId" : 1,
+      "categoryId" : 1
+    },
+    {
+      "title": "Avances en realidad aumentada para compras en línea",
+      "description": "Tecnología de realidad aumentada mejora la experiencia de compra en internet.",
+      "date": "08/02/2024",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/copesa/6FUBZ6OK5VCL7OAC2TRFCEIJ7I.jpg",
+      "userId" : 2,
+      "categoryId" : 2
+    },
+    {
+      "title": "Nueva app para controlar diabetes",
+      "description": "Investigadores desarrollan una aplicación móvil para ayudar a gestionar la diabetes. ",
+      "date": "08/02/2024",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HJvBRIA09EnxrFruRVpDz350aFYcwakTWw&usqp=CAU",
+      "userId" : 3,
+      "categoryId" : 3
+    },
+    {
+      "title": "Google busca proteger privacidad en búsquedas",
+      "description": "Google anuncia algoritmo de búsqueda enfocado en la privacidad del usuario. ",
+      "date": "08/02/2024",
+      "image": "https://techmonitor.ai/wp-content/uploads/sites/4/2017/02/shutterstock_552493561.webp",
+      "userId" : 1,
+      "categoryId" : 2
+    },
+    {
+      "title": "Samsung lanza teléfono plegable con pantalla mejorada",
+      "description": "Samsung lanza teléfono plegable con pantalla mejorada",
+      "date": "08/02/2024",
+      "image": "https://img.global.news.samsung.com/es/wp-content/uploads/2020/02/Body-1-1000x563-Galaxy-Z-Flip.jpg",
+      "userId" : 3,
+      "categoryId" : 1
+    },
+    {
+      "title": "Intel presenta procesadores de última generación",
+      "description": "Intel anuncia procesadores con mayor rendimiento y eficiencia energética. ",
+      "date": "08/02/2024",
+      "image": "https://www.intel.la/content/dam/www/global/badges/core-x-series-framed-badge-rwd.jpg.rendition.intel.web.480.270.jpg",
+      "userId" : 1,
+      "categoryId" : 2
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name" : "Tecnología",
+      "description" : "Últimas noticias sobre tecnología e innovación"
+    },
+    {
+      "id": "2",
+      "name" : "Deportes",
+      "description" : "Noticias y análisis deportivos"
+    },
+    {
+      "id": "3",
+      "name" : "Cultura",
+      "description" : "Eventos culturales, libros y arte"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Juan",
+      "email": "test@riwi.io",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "name": "Socrates",
+      "email": "test2@riwi.io",
+      "password": "123"
+    },
+    {
+      "id": "3",
+      "name": "Platon",
+      "email": "test3@riwi.io",
+      "password": "123"
+    },
+    {
+      "id": "4",
+      "name": "Aristoteles",
+      "email": "test4@riwi.io",
+      "password": "123"
+    }
+  ]
+}
